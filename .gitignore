@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+jspm_packages/
+
+# Output directories
+dist/
+out/
+
+# Environment files
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
